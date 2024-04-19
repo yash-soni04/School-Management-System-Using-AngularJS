@@ -55,30 +55,54 @@ This project is a School Management System designed to facilitate CRUD (Create, 
 school-management-system/
 │
 ├── backend/
+
 │ ├── SchoolManagementSystem/
+
 │ │ ├── settings.py
+
 │ │ ├── urls.py
+
 │ │ └── ...
+
 │ ├── StudentApp/
+
 │ │ ├── models.py
+
 │ │ ├── serializers.py
+
 │ │ ├── views.py
+
 │ │ └── ...
+
 │ └── ...
+
 │
 └── front-end/
+
 ├── src/
+
 │ ├── app/
+
 │ │ ├── crud/
+
 │ │ │ ├── crud.component.html
+
 │ │ │ ├── crud.component.scss
+
 │ │ │ └── crud.component.ts
+
 │ │ └── ...
+
 │ ├── app.module.ts
+
 │ └── ...
+
 ├── angular.json
+
 ├── package.json
+
 └── ...
+
 ##Clone the repository:
 
     ```bash
