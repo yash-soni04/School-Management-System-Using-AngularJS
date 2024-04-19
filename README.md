@@ -40,9 +40,10 @@ This project is a School Management System designed to facilitate CRUD (Create, 
 ## Frontend Setup (Angular)
 
 1. Install Angular CLI 16 or greater than 16 and create a new Angular application named `FrontEnd`.
-2. Generate a custom component for CRUD operations using Angular CLI.
-3. Implement HTML template and component logic for CRUD operations in `crud.component.html` and `crud.component.ts`.
-4. Use Bootstrap for styling by adding Bootstrap styles to `index.html`.
+2. Enable Routing in the app
+3. Generate a custom component for CRUD operations using Angular CLI.
+4. Implement HTML template and component logic for CRUD operations in `crud.component.html` and `crud.component.ts`.
+5. Use Bootstrap for styling by adding Bootstrap styles to `index.html`.
 
 ## Usage
 
