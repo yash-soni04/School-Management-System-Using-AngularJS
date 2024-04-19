@@ -107,7 +107,7 @@ school-management-system/
 ##Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/school-management-system.git
+    git clone [https://github.com/your_username/school-management-system](https://github.com/yash-soni04/School-Management-System-Using-AngularJS).git
     ```
     
 ## Contributing
