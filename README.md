@@ -106,9 +106,9 @@ school-management-system/
 
 ##Clone the repository:
 
-    ```bash
+    `
     git clone https://github.com/yash-soni04/School-Management-System-Using-AngularJS.git
-    ```
+    `
     
 ## Contributing
 
